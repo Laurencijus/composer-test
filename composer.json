@@ -1,0 +1,7 @@
+{
+    "license": "WTFPL",
+    "require": {
+        "brick/math": "^0.8.2",
+        "sensiolabs/security-checker": "*"
+    }
+}
